@@ -2,6 +2,4 @@ Flask
 gunicorn
 jinja2
 pip
-urlib
-urlib2
 python-telegram-bot
